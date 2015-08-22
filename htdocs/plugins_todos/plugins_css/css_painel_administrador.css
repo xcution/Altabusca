@@ -1,0 +1,219 @@
+
+.classe_div_painel_administrador_acao{
+
+background-color: #dce2ea;
+color: #000000;
+padding: 5px;
+
+display: table;
+table-layout: fixed;
+
+min-height: 185px;
+width: 98%;
+
+margin-top: 7px;
+margin-bottom: 10px;
+
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #e7a70d;
+
+}
+
+
+.conteudo_pagina_adm{
+
+font-size: 14px;
+
+padding-left: 5px;
+padding-right: 5px;
+
+min-height: 600px;
+display: table;
+
+}
+
+
+.div_servidor{
+
+min-height: 125px;
+min-width: 450px;
+
+margin-bottom: 30px;
+
+padding: 5px;
+
+}
+
+
+.div_porcentagem_hd{
+
+
+
+}
+
+
+#div_gerenciar_hosts_indexar{
+
+display: table;
+
+}
+
+
+#div_iniciar_processo_mover_dados{
+
+margin-top: 10px;
+margin-left: 2px;
+margin-bottom: 5px;
+
+padding: 5px;
+
+float: left;
+width: 100%;
+
+}
+
+
+#div_banco_index{
+
+float: left;
+
+}
+
+
+#div_banco_novos_hosts{
+
+float: left;
+
+}
+
+
+#span_iniciar_processo_mover_dados{
+
+display: none;
+
+}
+
+
+#div_barra_progresso_indexar{
+
+display: none;
+
+}
+
+
+#span_progresso_indexar_sites_imagem{
+
+}
+
+
+#barra_progresso_indexar_sites{
+
+height: 24px;
+float: left;
+
+}
+
+
+#div_console_progresso_indexar{
+
+word-wrap: break-word;
+background-color: #000000;
+color: #1aff00;
+height: 50px;
+
+margin-top: 10px;
+margin-bottom: 10px;
+
+padding: 5px;
+
+}
+
+
+#campo_adicionar_novo_host_site{
+
+height: 39px;
+font-size: 16px;
+color: #000000;
+
+}
+
+
+#div_adicionar_novo_host_site{
+
+
+
+}
+
+
+#div_gerenciar_backup_hosts{
+
+
+
+}
+
+
+#div_servidores_disponiveis_indexar{
+
+background-color: #e6f3f6;
+
+}
+
+
+.classe_div_campo_informa_dados_backup{
+
+float: left;
+width: 99%;
+margin-top: 15px;
+
+background-color: #ffffff;
+
+padding: 5px;
+
+}
+
+
+.classe_div_campo_reindexar_hosts{
+
+width: 99%;
+margin-top: 15px;
+
+margin-top: 10px;
+margin-bottom: 10px;
+
+background-color: #ffffff;
+
+padding: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

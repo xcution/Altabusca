@@ -1,0 +1,398 @@
+.div_opcoes_administrador{
+color: #000000;
+font-size: 15px;
+}
+.classe_div_imagem_backup_admin{
+float: left;
+margin-right: 5px;
+}
+.classe_div_campo_backup_dados{
+float: left;
+margin-right: 5px;
+}
+#classe_div_campo_progresso_admin{
+float: left;
+display: none;
+margin-top: 15px;
+margin-right: 5px;
+margin-bottom: 5px;
+width: 100%;
+}
+input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #DDDDDD;
+  min-width: 310px;
+}
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}.div_conteudo_publicacao_ajuda{
+width: 100%;
+font-size: 14px;
+margin-bottom: 5px;
+color: #000000;
+padding: 5px;
+}
+.imagem_publicacao_ajuda{
+max-width: 100%;
+border-color: #cad4df;
+border-style: solid;
+border-width: 1px;
+border-radius: 10px;
+}
+.div_imagem_publicacao_ajuda{
+width: 100%;
+margin-top: 4px;
+}
+.div_formulario_pesquisa_ajuda{
+padding: 5px;
+}
+.classe_formulario_upload{
+width: 100%;
+font-size: 13px;
+background-color: #ffffff;
+}
+.imagem_miniatura_iniciar_publicacao_post{
+width: 250px;
+height: 300px;
+margin-right: 1px;
+margin-bottom: 1px;
+}
+.classe_div_painel_administrador_acao{
+background-color: #dce2ea;
+color: #000000;
+padding: 5px;
+display: table;
+table-layout: fixed;
+min-height: 185px;
+width: 98%;
+margin-top: 7px;
+margin-bottom: 10px;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #e7a70d;
+}
+.conteudo_pagina_adm{
+font-size: 14px;
+padding-left: 5px;
+padding-right: 5px;
+min-height: 600px;
+display: table;
+}
+.div_servidor{
+min-height: 125px;
+min-width: 450px;
+margin-bottom: 30px;
+padding: 5px;
+}
+.div_porcentagem_hd{
+}
+#div_gerenciar_hosts_indexar{
+display: table;
+}
+#div_iniciar_processo_mover_dados{
+margin-top: 10px;
+margin-left: 2px;
+margin-bottom: 5px;
+padding: 5px;
+float: left;
+width: 100%;
+}
+#div_banco_index{
+float: left;
+}
+#div_banco_novos_hosts{
+float: left;
+}
+#span_iniciar_processo_mover_dados{
+display: none;
+}
+#div_barra_progresso_indexar{
+display: none;
+}
+#span_progresso_indexar_sites_imagem{
+}
+#barra_progresso_indexar_sites{
+height: 24px;
+float: left;
+}
+#div_console_progresso_indexar{
+word-wrap: break-word;
+background-color: #000000;
+color: #1aff00;
+height: 50px;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
+}
+#campo_adicionar_novo_host_site{
+height: 39px;
+font-size: 16px;
+color: #000000;
+}
+#div_adicionar_novo_host_site{
+}
+#div_gerenciar_backup_hosts{
+}
+#div_servidores_disponiveis_indexar{
+background-color: #e6f3f6;
+}
+.classe_div_campo_informa_dados_backup{
+float: left;
+width: 99%;
+margin-top: 15px;
+background-color: #ffffff;
+padding: 5px;
+}
+.classe_div_campo_reindexar_hosts{
+width: 99%;
+margin-top: 15px;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: #ffffff;
+padding: 5px;
+}
+.div_titulo_campos_gerais{
+width: 100%;
+font-size: 22px;
+font-weight: bold;
+color: #000000;
+margin-top: 15px;
+margin-bottom: 25px;
+padding-bottom: 10px;
+border-bottom-color: #66b7df;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+}
+.div_especial_geral_titulo{
+float: left;
+width: 100%;
+min-height: 20px;
+margin-top: 5px;
+margin-bottom: 2px;
+text-align: center;
+font-weight: bold;
+color: #ffffff;
+background-color: #517296;
+}
+.div_especial_geral_conteudo{
+padding-top: 5px;
+width: 100%;
+display: table;
+font-size: 13px;
+font-weight: normal;
+float: left;
+background-color: #ffffff;
+margin-bottom: 10px;
+word-break: break-all;
+min-height: 45px;
+color: #000000;
+}
+.div_especial_basica_campos{
+width: 100%;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-bottom: 5px;
+border-bottom-color: #e5e5e5;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+}
+.div_especial_mensagem_sistema{
+width: 98%;
+background-color: #fccbd2;
+word-break: break-all;
+border-style: solid;
+border-width: 1px;
+border-color: #f88796;
+font-weight: normal;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.div_especial_mensagem_sistema:hover{
+background-color: #fbbac3;
+-webkit-animation: fadein 3s; 
+-moz-animation: fadein 3s; 
+-ms-animation: fadein 3s; 
+-o-animation: fadein 3s; 
+animation: fadein 3s;
+}
+.div_especial_mensagem_sistema_sucesso{
+width: 98%;
+background-color: #d5f0d4;
+word-break: break-all;
+border-style: solid;
+border-width: 1px;
+border-color: #c0e8be;
+font-weight: normal;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.div_especial_mensagem_sistema:hover{
+background-color: #fbbac3;
+-webkit-animation: fadein 3s; 
+-moz-animation: fadein 3s; 
+-ms-animation: fadein 3s; 
+-o-animation: fadein 3s; 
+animation: fadein 3s;
+}
+body{
+background-color: #ffffff;
+color: #000000;
+max-width: 100%;
+height: 100%;
+min-width: 320px;
+margin-left: auto;
+margin-right: auto;
+}
+.div_corpo_pagina{
+width: 98%;
+min-height: 100%;
+padding-left: 1%;
+}
+#div_painel_principal_pagina_inicial{
+display: table;
+width: 100%;
+}
+#div_pesquisa_pagina_inicial{
+text-align: center;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-top: 2%;
+margin-bottom: 18%;
+}
+#barra_pesquisa_pagina_inicial{
+min-width: 75%;
+max-width: 85%;
+height: 45px;
+font-size: 18px;
+margin-top: 5px;
+margin-bottom: 5px;
+padding: 5px;
+}
+#div_barra_topo_pagina_inicial{
+background-color: #ffffff;
+min-height: 25px;
+text-align: left;
+color: #3d3d3d;
+font-size: 14px;
+padding: 5px;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #ffffff;
+}
+#div_barra_rodape_pagina_inicial{
+background-color: #ffffff;
+width: 100%;
+height: 100px;
+padding-top: 10px;
+text-align: center;
+margin-top: 15px;
+border-top-width: 1px;
+border-top-style: solid;
+border-top-color: #ffffff;
+}
+.modo_pesquisa{
+font-size: 14px;
+width: 145px;
+margin-top: 9px;
+margin-right: 5px;
+}
+.classe_links_topo{
+float: right;
+margin-left: 5px;
+font-size: 13px;
+border-right-color: #cccccc;
+border-right-style: solid;
+border-right-width: 1px;
+padding-right: 5px;
+}
+.div_resultado_busca_inteligente_web{
+font-size: 15px;
+background-color: #ffffff;
+padding: 5px;
+min-height: 50px;
+margin-bottom: 1px;
+display: table;
+width: 100%;
+}
+.div_resultado_busca_inteligente_imagens{
+font-size: 15px;
+background-color: #ffffff;
+padding: 5px;
+min-height: 50px;
+margin-bottom: 1px;
+}
+.imagem_resposta_busca_inteligente{
+width: 150px;
+height: 150px;
+border: 1px solid;
+border-color: #398eb5;
+margin-top: 1%;
+margin-right: 1%;
+margin-bottom: 1%;
+}
+.div_modos_pesquisa{
+font-size: 16px;
+padding-bottom: 3px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #cccccc;
+}
+.div_termo_pesquisa_atual{
+font-size: 22px;
+margin-bottom: 2%;
+}
+.div_com_resultados_organizados{
+}
+.div_numero_resultados_busca_inteligente{
+margin-top: 25px;
+margin-bottom: 25px;
+min-height: 50px;
+padding-top: 10px;
+padding-left: 1%;
+padding-right: 1%;
+padding-bottom: 10px;
+font-size: 16px;
+}
+.div_lista_links_retorno{
+font-size: 20px;
+min-height: 45px;
+padding-top: 10px;
+padding-bottom: 8px;
+margin-top: 4%;
+text-align: left;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #cccccc;
+}
+.div_sugestoes_pesquisa_inteligente{
+padding-top: 1%;
+padding-left: 1%;
+padding-right: 1%;
+padding-bottom: 1%;
+margin-top: 0%;
+margin-bottom: 1%;
+}
+.div_termo_pesquisa_encontrado{
+color: #ED6464;
+width: 100%;
+}
+.classe_links_opcoes_busca{
+margin-right: 20px;
+}
+.classe_link_titulo_pesquisa{
+font-weight: bold;
+font-size: 18px;
+}

@@ -1,0 +1,59 @@
+.div_especial_mensagem_sistema_sucesso{
+
+width: 98%;
+background-color: #d5f0d4;
+word-break: break-all;
+
+border-style: solid;
+border-width: 1px;
+border-color: #c0e8be;
+
+font-weight: normal;
+
+
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+
+.div_especial_mensagem_sistema:hover{
+
+background-color: #fbbac3;
+
+-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
+-moz-animation: fadein 3s; /* Firefox < 16 */
+-ms-animation: fadein 3s; /* Internet Explorer */
+-o-animation: fadein 3s; /* Opera < 12.1 */
+animation: fadein 3s;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

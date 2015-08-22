@@ -1,0 +1,46 @@
+.div_opcoes_administrador{
+
+color: #000000;
+font-size: 15px;
+
+}
+
+
+.classe_div_imagem_backup_admin{
+
+float: left;
+margin-right: 5px;
+
+}
+
+
+.classe_div_campo_backup_dados{
+
+float: left;
+margin-right: 5px;
+
+}
+
+
+#classe_div_campo_progresso_admin{
+
+float: left;
+display: none;
+
+margin-top: 15px;
+margin-right: 5px;
+margin-bottom: 5px;
+
+width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+

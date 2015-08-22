@@ -1,0 +1,42 @@
+.div_especial_geral_titulo{
+
+float: left;
+width: 100%;
+min-height: 20px;
+margin-top: 5px;
+margin-bottom: 2px;
+
+
+text-align: center;
+font-weight: bold;
+color: #ffffff;
+background-color: #517296;
+
+}
+
+
+.div_especial_geral_conteudo{
+
+padding-top: 5px;
+width: 100%;
+display: table;
+font-size: 13px;
+font-weight: normal;
+float: left;
+background-color: #ffffff;
+margin-bottom: 10px;
+word-break: break-all;
+min-height: 45px;
+color: #000000;
+
+}
+
+
+
+
+
+
+
+
+
+

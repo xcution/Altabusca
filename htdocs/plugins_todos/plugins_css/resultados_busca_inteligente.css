@@ -1,0 +1,139 @@
+
+
+.div_resultado_busca_inteligente_web{
+
+font-size: 15px;
+background-color: #ffffff;
+padding: 5px;
+min-height: 50px;
+margin-bottom: 1px;
+display: table;
+width: 100%;
+
+}
+
+
+
+
+.div_resultado_busca_inteligente_imagens{
+
+font-size: 15px;
+background-color: #ffffff;
+padding: 5px;
+min-height: 50px;
+margin-bottom: 1px;
+
+}
+
+
+.imagem_resposta_busca_inteligente{
+
+width: 150px;
+height: 150px;
+border: 1px solid;
+border-color: #398eb5;
+margin-top: 1%;
+margin-right: 1%;
+margin-bottom: 1%;
+
+}
+
+
+.div_modos_pesquisa{
+
+font-size: 16px;
+padding-bottom: 3px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #cccccc;
+
+}
+
+
+.div_termo_pesquisa_atual{
+
+font-size: 22px;
+margin-bottom: 2%;
+
+}
+
+
+.div_com_resultados_organizados{
+
+
+
+}
+
+
+.div_numero_resultados_busca_inteligente{
+
+margin-top: 25px;
+margin-bottom: 25px;
+min-height: 50px;
+padding-top: 10px;
+padding-left: 1%;
+padding-right: 1%;
+padding-bottom: 10px;
+font-size: 16px;
+
+}
+
+
+.div_lista_links_retorno{
+
+font-size: 20px;
+min-height: 45px;
+padding-top: 10px;
+padding-bottom: 8px;
+margin-top: 4%;
+text-align: left;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #cccccc;
+
+}
+
+
+.div_sugestoes_pesquisa_inteligente{
+
+padding-top: 1%;
+padding-left: 1%;
+padding-right: 1%;
+padding-bottom: 1%;
+margin-top: 0%;
+margin-bottom: 1%;
+
+}
+
+
+.div_termo_pesquisa_encontrado{
+
+color: #ED6464;
+width: 100%;
+
+}
+
+
+.classe_links_opcoes_busca{
+
+margin-right: 20px;
+
+}
+
+
+.classe_link_titulo_pesquisa{
+
+font-weight: bold;
+font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
